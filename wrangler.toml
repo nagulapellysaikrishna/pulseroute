@@ -1,0 +1,12 @@
+name = "pulseroute"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+ENVIRONMENT = "production"
+
+# Secrets to be configured via wrangler secret put:
+# wrangler secret put DATABASE_URL
+# wrangler secret put GROQ_API_KEY
+# wrangler secret put OPENAI_API_KEY
