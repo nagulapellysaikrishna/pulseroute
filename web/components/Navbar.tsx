@@ -82,7 +82,7 @@ export function Navbar({ activeTab, setActiveTab }: NavbarProps) {
           </div>
 
           <a
-            href="https://github.com/nagulapellysaikrishna/pluseroute"
+            href="https://github.com/nagulapellysaikrishna/pulseroute"
             target="_blank"
             rel="noreferrer"
             className="flex items-center gap-1.5 rounded-lg border border-zinc-800 bg-zinc-900/60 px-3 py-1.5 text-xs font-medium text-zinc-300 transition-colors hover:bg-zinc-800 hover:text-white"

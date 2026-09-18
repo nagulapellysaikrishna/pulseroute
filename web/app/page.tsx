@@ -205,7 +205,7 @@ export default function DashboardPage() {
           <div>PulseRoute &mdash; Sub-15ms Edge LLM Gateway with Model Context Protocol (MCP)</div>
           <div className="flex items-center gap-4 text-zinc-400">
             <a
-              href="https://github.com/nagulapellysaikrishna/pluseroute"
+              href="https://github.com/nagulapellysaikrishna/pulseroute"
               target="_blank"
               rel="noreferrer"
               className="hover:text-white transition-colors"
