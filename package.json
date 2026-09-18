@@ -9,6 +9,9 @@
     "start": "node dist/src/server.js",
     "dev": "tsx src/server.ts",
     "mcp": "node dist/mcp/server.js",
+    "web:dev": "npm run dev --prefix web",
+    "web:build": "npm run build --prefix web",
+    "web:start": "npm run start --prefix web",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

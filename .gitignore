@@ -3,6 +3,8 @@ node_modules/
 
 # Production output
 dist/
+.next/
+out/
 
 # Environment variables & secrets
 .env
